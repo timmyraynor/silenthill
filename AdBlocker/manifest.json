@@ -1,15 +1,15 @@
 {
-    "name": "DevSage Adblocker",
+    "name": "SilentHill Adblocker",
     "version": "1.0",
-    "description": "DevSage Adblocker Tutorial",
+    "description": "SilentHill Adblocker Tutorial",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
     },
     "icons": {
-        "16": "icons/logo_16x16.png",
-        "48": "icons/logo_48x48.png",
-        "128": "icons/logo_128x128.png"
+        "16": "icons/icon_ad_blocker.jpg",
+        "48": "icons/icon_ad_blocker.jpg",
+        "128": "icons/icon_ad_blocker.jpg"
     },
     "manifest_version": 2
 }
